@@ -1,10 +1,10 @@
-<a name="My Portfolio"></a>
+<a name="Hello Microverse Project"></a>
 
 <div align="center">
   <img src="Albert" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>My Portfolio</b></h3>
+  <h3><b>Hello Microverse project</b></h3>
 
 </div>
 
@@ -31,7 +31,7 @@
 - [📝 License](#license)
 
 
-# 📖 [My Portfolio] <a name="about-project"></a>
+# 📖 [Hello Microverse Project] <a name="about-project"></a>
 
 > This is my portfolio I build it with html and css.
 
