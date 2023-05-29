@@ -1,8 +1,7 @@
 <a name="Hello Microverse Project"></a>
 
 <div align="center">
-  <img src="Albert" alt="logo" width="140"  height="auto" />
-  <br/>
+  
 
   <h3><b>Hello Microverse project</b></h3>
 
@@ -85,7 +84,7 @@ Code editor
 
 Clone this repository to your desired folder:
 Run this command:
-https://github.com/albertkantwi/MyPortfolio
+https://github.com/albertkantwi/Hello_Microverse_Project
 
 ### Install
 
@@ -120,7 +119,7 @@ Albert Antwi
 👤 **Author1**
 
 - GitHub: [@albertkantwi](https://github.com/albertkantwi)
-- Twitter: [@Albert_KAntwi](https://twitter.com/Albert_KAntwi?t=cdjVl5R1Vagv3xGkhypQmA&s=08)
+- Twitter: [@Albert_KAntwi](https://twitter.com/Albert_KAntwi?t=-jvnlwsHZy2j_hknq6DqBQ&s=08)
 - LinkedIn: [Albert Antwi](https://www.linkedin.com/in/albert-antwi-557291263)
 
 
