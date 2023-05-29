@@ -84,7 +84,7 @@ Code editor
 
 Clone this repository to your desired folder:
 Run this command:
-https://github.com/albertkantwi/Hello_Microverse_Project
+git clone https://github.com/albertkantwi/Hello_Microverse_Project.git
 
 ### Install
 
@@ -120,7 +120,7 @@ Albert Antwi
 
 - GitHub: [@albertkantwi](https://github.com/albertkantwi)
 - Twitter: [@Albert_KAntwi](https://twitter.com/Albert_KAntwi?t=-jvnlwsHZy2j_hknq6DqBQ&s=08)
-- LinkedIn: [Albert Antwi](https://www.linkedin.com/in/albert-antwi-557291263)
+
 
 
 
